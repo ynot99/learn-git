@@ -1,1 +1,1 @@
-# This is my git repository for practise
+# This is my git repository for practice
